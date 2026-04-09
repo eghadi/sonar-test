@@ -14,3 +14,4 @@ def calculate_total(items):
     unused_variable = 5
 
     return total
+# new change
